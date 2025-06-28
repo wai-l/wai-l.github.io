@@ -10,3 +10,4 @@ This is a place holder
 ## 📊 Projects
 
 - [Project 1](https://github.com/)
+- [Project 2](https://github.com/)
